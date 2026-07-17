@@ -1,0 +1,23 @@
+index.html
+  s_b6693b47ceea05::t_6294cbb6322062 1-50
+quickapply/privacy.html
+  s_b6693b47ceea05::t_efbba0850eda48 1-113
+quickapply/terms.html
+  s_b6693b47ceea05::t_737ba80f14b099 1-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2b2b3b6cfb6dace654f8a8fb8c4546f3913718f2",
+  "prompts": {},
+  "sessions": {
+    "s_b6693b47ceea05": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-ac9569ea7defc2750",
+        "model": "unknown"
+      },
+      "human_author": "Valentyn Bratkevych <valentyn.bratkevych@gen.tech>"
+    }
+  }
+}
