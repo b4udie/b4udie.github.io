@@ -1,0 +1,25 @@
+quickapply/privacy.html
+  s_a72716ef5be4c1::t_11686e169d4c98 85
+  s_a72716ef5be4c1::t_a06999cfb82d4d 91
+  s_a72716ef5be4c1::t_a7bbad0d88bb47 64
+  s_a72716ef5be4c1::t_7a6dec961b9060 75
+  s_a72716ef5be4c1::t_0741fb3f88f359 56
+quickapply/terms.html
+  s_a72716ef5be4c1::t_b6d5c3ff2f3976 56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d1218ea4135434095681a0e6cd64af823a8a737e",
+  "prompts": {},
+  "sessions": {
+    "s_a72716ef5be4c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f6d0f2fa-c55f-4222-9221-33df3e3fb544",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Valentyn Bratkevych <valentyn.bratkevych@gen.tech>"
+    }
+  }
+}
